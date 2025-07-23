@@ -1,3 +1,2 @@
-hi
-hlo
-hello
+sudo apt update
+sudo apt install nginx -y
